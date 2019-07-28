@@ -1,0 +1,1 @@
+# pageObject pattern aplication.
